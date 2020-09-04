@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-﻿lân đã sửa
-=======
-﻿phúc sửa
->>>>>>> Stashed changes
+﻿phuc sửa nửa l2
